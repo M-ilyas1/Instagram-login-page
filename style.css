@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#main{
+    width: 100%;
+    height: 700px;
+    margin-top: 0px;
+    padding: 0px;
+    background-color: rgb(220, 68, 93);
+}
+.div1{
+    width: 500px;
+    height: 700px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
+p{
+    padding-left: 170px;
+    padding-top: 10px;
+}
+img{
+    width: 200px;
+    height: 50px;
+    margin-top: 70px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+input{
+    margin-left: 90px;
+    margin-top: 5px;
+    width: 320px;
+    height: 35px;
+    border-radius: 3px;
+    border: none;
+    border: 1px solid rgb(45, 20, 20);
+}
+button{
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    cursor: pointer;
+}
+button a{
+    font-size: 16px;
+}
+hr{
+    width: 320px;
+    margin-left: 90px;
+}
+.login{
+    width: 325px;
+    height: 35px;
+    background-color: rgb(11, 107, 185);
+    color: white;
+    margin-top:5px;
+    margin-left: 90px;
+    border: none;
+    border-radius: 5px;
+}
+.login-Facebook{
+    width: 325px;
+    height: 35px;
+    background-color: rgb(11, 107, 185);
+    color: white;
+    margin-top: 30px;
+    margin-left: 90px;
+    border: none;
+    border-radius: 5px;
+}
+
+
+
+                                                
